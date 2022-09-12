@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23410cce-51a2-49f2-8860-cfde0dd42da1" name="Changes" comment="" />
+    <list default="true" id="23410cce-51a2-49f2-8860-cfde0dd42da1" name="Changes" comment="fix">
+      <change afterPath="$PROJECT_DIR$/src/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Java_lab_1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_lab_1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,18 +34,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -50,7 +59,41 @@
       <option name="presentableId" value="Default" />
       <updated>1662895707207</updated>
       <workItem from="1662895708857" duration="164000" />
+      <workItem from="1662898094419" duration="855000" />
+      <workItem from="1662902445744" duration="19000" />
+      <workItem from="1662903186692" duration="489000" />
+      <workItem from="1662904508399" duration="5234000" />
+      <workItem from="1662912827469" duration="16577000" />
+      <workItem from="1662929553147" duration="33000" />
+      <workItem from="1662929758588" duration="684000" />
+      <workItem from="1662930456531" duration="31000" />
+      <workItem from="1662930518336" duration="27000" />
+      <workItem from="1662930556774" duration="17000" />
+      <workItem from="1662969656941" duration="2729000" />
+      <workItem from="1662972421151" duration="76000" />
+      <workItem from="1662972508607" duration="34000" />
+      <workItem from="1662972552611" duration="67000" />
+      <workItem from="1662973233589" duration="24000" />
+      <workItem from="1662973268626" duration="5000" />
+      <workItem from="1662973284443" duration="6000" />
+      <workItem from="1662974285336" duration="130000" />
+      <workItem from="1662974433343" duration="8000" />
+      <workItem from="1662975037265" duration="263000" />
+      <workItem from="1662975312723" duration="24000" />
+      <workItem from="1662975347389" duration="10000" />
+      <workItem from="1662975559803" duration="1877000" />
+      <workItem from="1662977464268" duration="72000" />
+      <workItem from="1662978168750" duration="111000" />
+      <workItem from="1662978297834" duration="3551000" />
     </task>
+    <task id="LOCAL-00001" summary="fix">
+      <created>1662898158607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1662898158607</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,5 +109,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
   </component>
 </project>
